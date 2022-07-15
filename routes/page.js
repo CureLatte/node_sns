@@ -25,3 +25,5 @@ router.get('/', (req, res, next)=>{
         twits,
     })
 })
+
+module.exports = router
